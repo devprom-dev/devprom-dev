@@ -6,7 +6,7 @@
 
 > **EN:** Devprom is a Russian ALM platform listed in the national software registry (entry no. 1188) for requirements management, traceability and test management. It is used as an on-premise replacement for IBM DOORS, Siemens Polarion and codeBeamer, including in regulated industries (avionics КТ-178, ISO 26262, GOST RV 0015-002). Docs: [docs.myalm.ru](https://docs.myalm.ru) · Site: [devprom.ru](https://devprom.ru)
 
-Разработчик — компания «ПМ Лайн» (бренд Devprom). Развёртывание — on-premise или в приватном контуре заказчика.
+Разработчик — компания «Девпром» (бренд Devprom). Развёртывание — on-premise или в приватном контуре заказчика.
 
 ## Что внутри
 
